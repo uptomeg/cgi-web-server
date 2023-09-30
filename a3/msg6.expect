@@ -1,0 +1,40 @@
+HTTP/1.1 500 Internal Server Error
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+The server encountered an internal error or
+misconfiguration and was unable to complete your request.<p>
+</body></html>
+HTTP/1.1 500 Internal Server Error
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+The server encountered an internal error or
+misconfiguration and was unable to complete your request.<p>
+</body></html>
+HTTP/1.1 500 Internal Server Error
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+The server encountered an internal error or
+misconfiguration and was unable to complete your request.<p>
+</body></html>
+HTTP/1.1 404 Not Found
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+The requested resource /null was not found on this server.
+<hr>
+</body></html>

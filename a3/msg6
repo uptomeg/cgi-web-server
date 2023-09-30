@@ -1,0 +1,4 @@
+GET /simple HTTP/1.1 # no query
+GET /large HTTP/1.1
+GET /die HTTP/1.1
+GET /null HTTP/1.1
